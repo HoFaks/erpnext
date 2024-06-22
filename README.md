@@ -5,6 +5,7 @@
     <h2>ERPNext</h2>
     <p align="center">
         <p>ERP made simple</p>
+        <p>man</p>
     </p>
 
 [![CI](https://github.com/frappe/erpnext/actions/workflows/server-tests-mariadb.yml/badge.svg?event=schedule)](https://github.com/frappe/erpnext/actions/workflows/server-tests-mariadb.yml)
